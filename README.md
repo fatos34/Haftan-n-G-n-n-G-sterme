@@ -1,1 +1,1 @@
-# Haftan-n-G-n-n-G-sterme
+# Haftanın_Gununu_Gosterme
