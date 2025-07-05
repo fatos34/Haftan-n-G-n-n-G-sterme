@@ -1,0 +1,16 @@
+#include <iostream>
+
+int main() {
+ int gun;
+ printf("[1-7]arası tamsayı gir:");
+ scanf("%d",&gun);
+ if(gun==1){printf("pazartesi");}
+ else if(gun==1){printf("salı");}
+ else  if(gun==2){printf("çarşamba");}
+ else  if(gun==3){printf("perşembe");}
+ else  if(gun==4){printf("cuma");}
+ else  if(gun==5){printf("cumartesi");}
+ else  if(gun==6){printf("pazar");} 
+ else{printf("yanlıs değer");}
+   
+}
